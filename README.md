@@ -1,5 +1,7 @@
 # css
-> ## 이론 공부
+> ## 이론 공부 
+### [박스 모델](https://github.com/ka0824/css/blob/main/box_model.md)
+
 <br />
 
 
