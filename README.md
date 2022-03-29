@@ -14,3 +14,8 @@
 ### [검색할 때 검색창 동적으로 늘리기](https://github.com/ka0824/css/blob/main/feat/extend_search_box.md)
 ### [스크롤 바 투명하게 만들기](https://github.com/ka0824/css/blob/main/feat/transparent_scroll_bar.md)
 ### [flex 비율로 나누기](https://github.com/ka0824/css/blob/main/feat/flex_ratio.md)
+
+<br />
+
+> ## 문제 해결
+### [align-items가 적용이 안될 때](https://github.com/ka0824/css/blob/main/trouble/not_working_alignitems.md)
